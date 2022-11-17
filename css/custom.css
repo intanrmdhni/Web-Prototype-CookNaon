@@ -1,0 +1,10 @@
+/* .pokemon-list .home {
+    display: none;
+} */
+.main-list {
+    float: right;
+}
+.main-list .loading-div .col-12 {
+    height: 100vh;
+    align-items: center;
+}
